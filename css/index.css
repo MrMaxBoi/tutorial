@@ -4,6 +4,15 @@ body{
 
 header{
     background-color: antiquewhite;
+    text-align: center;
 }
 
-header
+header h1{
+    color:black;
+}
+
+header img{ 
+    border-radius: 150px ;
+    width: 300px ;
+    
+}
